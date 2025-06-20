@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/poojabharadwaj/static/css/main.2bca3a7f.css",
+    "main.js": "/poojabharadwaj/static/js/main.cdc3a684.js",
+    "index.html": "/poojabharadwaj/index.html",
+    "static/media/Pooja_Bharadwaj_Resume.pdf": "/poojabharadwaj/static/media/Pooja_Bharadwaj_Resume.3884920e34963b6a1c32.pdf",
+    "main.2bca3a7f.css.map": "/poojabharadwaj/static/css/main.2bca3a7f.css.map",
+    "main.cdc3a684.js.map": "/poojabharadwaj/static/js/main.cdc3a684.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bca3a7f.css",
+    "static/js/main.cdc3a684.js"
+  ]
+}
